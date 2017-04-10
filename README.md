@@ -1,2 +1,3 @@
 # hello-world
-This is a sample repository.
+It was a sample repository
+now it is edited version.
